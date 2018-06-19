@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Andre2992/liri-node/issues"
   },
-  "homepage": "https://github.com/Andre2992/liri-node#readme"
+  "homepage": "https://github.com/Andre2992/liri-node#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
