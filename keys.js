@@ -1,3 +1,4 @@
+var keys = require("./.env")
 console.log('this is loaded');
 
 exports.twitter = {
